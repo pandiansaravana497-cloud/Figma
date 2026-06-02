@@ -585,96 +585,6 @@ background: rgba(250,252,251,1);
   opacity: 1;
   text-align: left;
 }
-```
-### SCREENSHOTSHOT FOR 4
-### HTML CODE:
-```
-<!DOCTYPE html>
-<html>
-
-<head>
-    <link href="https://fonts.googleapis.com/css?family=Kavoon&display=swap" rel="stylesheet" />
-    <link href="./css/main.css" rel="stylesheet" />
-    <title>Document</title>
-</head>
-
-<body>
-    <div class="v17_69"><span class="v17_70">THANK YOU !</span>
-        <div class="v27_2"></div><span class="v27_4">contact us  coordinator
-            V RAKSHA DHARANIKA 8939003144</span><span class="v27_5">We all are eagerly waiting for your participation
-            !</span>
-    </div>
-</body>
-
-</html>
-```
-```
-* {
-  box-sizing: border-box;
-}
-body {
-  font-size: 14px;
-}
-.v17_69 {
-  width: 442px;
-  height: 853px;
-  background: url("../images/v17_69.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v17_70 {
-  width: 100%;
-  color: rgba(254,224,242,1);
-  position: absolute;
-  top: 219px;
-  left: 139px;
-  font-family: Kavoon;
-  font-weight: Regular;
-  font-size: 40px;
-  opacity: 1;
-  text-align: left;
-}
-.v27_2 {
-  width: 242px;
-  height: 252px;
-  background: rgba(20,38,78,1);
-  opacity: 1;
-  position: absolute;
-  top: 258px;
-  left: 183px;
-  overflow: hidden;
-}
-.v27_4 {
-  width: 260px;
-  color: rgba(240,220,220,1);
-  position: absolute;
-  top: 643px;
-  left: 174px;
-  font-family: Kavoon;
-  font-weight: Regular;
-  font-size: 24px;
-  opacity: 1;
-  text-align: center;
-}
-.v27_5 {
-  width: 363px;
-  color: rgba(240,220,220,1);
-  position: absolute;
-  top: 330px;
-  left: 79px;
-  font-family: Kavoon;
-  font-weight: Regular;
-  font-size: 24px;
-  opacity: 1;
-  text-align: center;
-}
-
 ~~~
 
 ## OUTPUT:
@@ -685,7 +595,6 @@ body {
 
 <img width="1465" height="678" alt="Screenshot 2026-06-02 102239" src="https://github.com/user-attachments/assets/27d59318-15d4-4684-a970-59ae8dc861c7" />
 
-<img width="1436" height="650" alt="Screenshot 2026-06-02 102300" src="https://github.com/user-attachments/assets/597a172e-34ee-4609-bd36-cfcc42809511" />
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
