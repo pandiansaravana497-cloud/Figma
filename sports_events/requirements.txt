@@ -1,5 +1,0 @@
-# Sports Events Registration
-# Python 3.8+ standard library only — no external dependencies required
-# Optional extras:
-# flask>=3.0          # if you want to swap to Flask backend
-# django>=5.0         # if you want to swap to Django backend
