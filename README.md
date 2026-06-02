@@ -589,11 +589,11 @@ background: rgba(250,252,251,1);
 
 ## OUTPUT:
 
-<img width="1435" height="677" alt="Screenshot 2026-06-02 102205" src="https://github.com/user-attachments/assets/5e8be292-ccb8-44e6-859e-ea618b5668f6" />
+<img width="1067" height="586" alt="image" src="https://github.com/user-attachments/assets/994f301e-ac09-4b8e-9d18-7497f4f3d75f" />
 
-<img width="1437" height="657" alt="Screenshot 2026-06-02 102223" src="https://github.com/user-attachments/assets/4314559f-cc4b-4d15-b9fb-5701939d14d0" />
+<img width="1063" height="584" alt="image" src="https://github.com/user-attachments/assets/a982c92b-1600-4a31-8d60-3299681c678e" />
 
-<img width="1465" height="678" alt="Screenshot 2026-06-02 102239" src="https://github.com/user-attachments/assets/27d59318-15d4-4684-a970-59ae8dc861c7" />
+<img width="1068" height="580" alt="image" src="https://github.com/user-attachments/assets/9874955a-ae66-43cc-a0d9-1b8bb2e3d6ec" />
 
 
 ## RESULT:
